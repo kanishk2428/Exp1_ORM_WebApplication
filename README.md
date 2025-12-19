@@ -45,7 +45,6 @@ admin.site.register(Student, StudentAdmin)
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-25 115605.png>) 
 ![alt text](<Screenshot 2025-11-25 115701.png>) 
 ![alt text](<Screenshot 2025-11-25 115736.png>) 
 ![alt text](<Screenshot 2025-11-25 115831.png>) 
